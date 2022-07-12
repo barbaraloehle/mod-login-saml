@@ -1,6 +1,6 @@
 ## 2.4.9 - 2022-07-12
 
- * [MODLOGSAML-140](https://issues.folio.org/browse/MODLOGSAML-148) Wrap samlAttributeName String in List
+ * [MODLOGSAML-140](https://issues.folio.org/browse/MODLOGSAML-140) Wrap samlAttributeName String in List
 
 ## 2.4.8 - 2022-07-04
 
