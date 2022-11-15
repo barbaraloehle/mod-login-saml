@@ -105,6 +105,13 @@
     </dependency>
 
     <dependency>
+      <groupId>org.folio</groupId>
+      <artifactId>postgres-testing</artifactId>
+      <version>${raml-module-builder-version}</version>
+      <scope>test</scope>
+    </dependency>
+    
+    <dependency>
       <groupId>org.pac4j</groupId>
       <artifactId>vertx-pac4j</artifactId>
       <version>${vertx-pac4j.version}</version>
